@@ -3,4 +3,4 @@ ARTIFICIAL INTELLIGENCE
 ![1 8 PUZZLE PROBLEM](https://github.com/Shruthika1511/CSA1779/assets/112743361/4ce81e15-19a0-4814-a017-b1065abb2dc1)
 ![2 8 QUEEN PROBLEM](https://github.com/Shruthika1511/CSA1779/assets/112743361/ac03841d-ef30-4707-861a-fe2713a12223)
 ![3 WATER JUG PROBLEM](https://github.com/Shruthika1511/CSA1779/assets/112743361/30d60664-583b-4ad0-8b9c-ada87da61dde)
-![4 CRIPT ARITHEMATIC PROBLEM](https://github.com/Shruthika1511/CSA1779/assets/112743361/effa649b-c04e-452f-92e4-bd04dccb1200)
+![4 CRIPT ARITHEMATIC PROBLEM](https://github.com/Shruthika1511/CSA1779/assets/112743361/43e55257-2b7b-4592-a560-c1c1da680ac5)
